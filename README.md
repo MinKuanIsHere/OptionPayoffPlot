@@ -1,5 +1,7 @@
 # OptionPayoffPlot
 
-使用python繪製損益圖
+main.ipynb是使用python繪製損益圖
 
-僅供參考
+富邦VIXETF.ipynb是使用python繪製VIX資訊
+
+上述資訊，僅供參考，如有疑問請自行解決
